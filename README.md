@@ -12,5 +12,7 @@ This project aims at predicting the right timing to invest in a stock over weeks
 + data cleaning
 + Graphs: document progress and performance of model
 + feature engineering
-+ benchmarking
++ benchmarking (Kontrolllauf: Kauf 1/Monat als Vergleich; Jahresmittel der Modellvorhersage vs. DAX-Jahresperformance, Referenzzeitraum in Abhängigkeit von gleitendem Mittel)
 + final product
+
++
