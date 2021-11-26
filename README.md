@@ -7,3 +7,10 @@ This project aims at predicting the right timing to invest in a stock over weeks
 + consider different time periods / lengths of rallyes
 + find the simplest indicators and explore their usage
 + ...
+
+## Files (planned):
++ data cleaning
++ Graphs: document progress and performance of model
++ feature engineering
++ benchmarking
++ final product
